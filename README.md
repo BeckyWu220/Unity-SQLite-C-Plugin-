@@ -4,4 +4,4 @@ SQLite is a convenient way of implementing a simple database in Unity. Inspired 
 Setup
 1. Download SQLite. - the ZIP file with the DLL inside that's in the Precompiled Binaries. Mac version has been included in this git.
 2. Important Copy sqlite3.dll into your into your project's Plugins folder.
-3. Add in the dbAccess.cs file into your project.
+3. Add in the databaseAccess.cs file into your project.
